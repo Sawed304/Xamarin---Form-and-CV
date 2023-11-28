@@ -20,14 +20,14 @@
                 <StackLayout>
                     <Label Text="Nombres"
                            FontSize="18"/>
-                    <Entry Placeholder="Sergio Manuel"
+                    <Entry Placeholder="Santiago Sebastian"
                            PlaceholderColor="#black"
                            x:Name="nombre"/>
                 </StackLayout>
                 <StackLayout>
                     <Label Text="Apellidos"
                            FontSize="18"/>
-                    <Entry Placeholder="Sirena Málaga"
+                    <Entry Placeholder="Retamozo Vasquez"
                            PlaceholderColor="#black"
                            x:Name="apellido"/>
                 </StackLayout>
@@ -64,7 +64,7 @@
                 <StackLayout>
                     <Label Text="Correo"
                            FontSize="18"/>
-                    <Entry Placeholder="sergio.sirena@ucsp.edu.pe" 
+                    <Entry Placeholder="santiago.retamozo@ucsp.edu.pe" 
                            PlaceholderColor="#black"
                            x:Name="correo"/>
                 </StackLayout>
